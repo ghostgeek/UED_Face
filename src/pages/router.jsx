@@ -12,7 +12,7 @@ import "./index.less";
 
 class RouterPage extends Component {
   state = {
-    isLogedIn: false
+    isLogedIn: true
   };
   render() {
     return (
